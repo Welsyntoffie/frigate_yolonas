@@ -8,5 +8,5 @@ model:
   input_tensor: nchw
   input_pixel_format: bgr
   path: /config/models/320/yolo_nas_s.onnx
-  labelmap_path: /labelmap/coco-80.txt
+  labelmap_path: /config/models/320/coco80.txt
 ```
